@@ -3,20 +3,20 @@
 
 ## Содержание курса:
 - [Lesson 1](https://drive.google.com/drive/folders/1Wa51sTzShGajnaPCzabDfxhUtvlrwZbU?usp=sharing) DevOps history. What is DevOps. DevOps практики. Toolset. DevOps компетенции.
-- [Lesson 2](https://drive.google.com/drive/folders/1vAmjTGRatwiUNxQrih1njgJDwpYP2iHl?usp=sharing) 
-- [Lesson 3](https://drive.google.com/drive/folders/1gXFc9tLqAiMW-hLzGmKdXR9Dv4LctOoO?usp=sharing) 
-- [Lesson 4](https://drive.google.com/drive/folders/1W129_Uq5hFYXxA6CgIaA0Y7PU6o_Iuky?usp=sharing) 
-- [Lesson 5](https://drive.google.com/drive/folders/1qa2LwA5TG8otmUHT5_Mwj2gCZWvQKTjV?usp=sharing) 
-- [Lesson 6](https://drive.google.com/drive/folders/18J7k-z-_RpE0ibDm9CmMgrV07SSlVo35?usp=sharing) 
-- [Lesson 7](https://drive.google.com/drive/folders/1rLwklhgFNDUoSMM4rmxQnH6t6ijW6O-n?usp=sharing) 
-- [Lesson 8](https://drive.google.com/drive/folders/1pd4OcELJmC36szHWj9ePEbODMUIeYSnj?usp=sharing) 
-- [Lesson 9](https://drive.google.com/drive/folders/1Z0_WiK2dCEV74Rhnr4LfizLb_xq5DgHM?usp=sharing) 
-- [Lesson 10](https://drive.google.com/drive/folders/1gIm6OFMg4LKpU1C51gSArokjuT3Uq8Az?usp=sharing) 
-- [Lesson 11](https://drive.google.com/drive/folders/1Lz17HSWjOAl7jsFiAez9xnxGjuiqrJ4A?usp=sharing)
-- [Lesson 12](https://drive.google.com/drive/folders/1MM4LN4XAZFUJIsOEeAs3yAjFTzMC8kNr?usp=sharing)
-- [Lesson 13](https://drive.google.com/drive/folders/1jHSB6l9l_0gE0f6kAHYTznHm7sP5JIwY?usp=sharing)
-- [Lesson 14](https://drive.google.com/drive/folders/1ylYRVzuWjy4zHt79nX5ZYVtfbqoAunwC?usp=sharing)
-- [Lesson 15](https://drive.google.com/drive/folders/1T7ec3_ehd-Ga-wv9S68gDsHkD2mWGAG8?usp=sharing)
+- [Lesson 2](https://drive.google.com/drive/folders/1vAmjTGRatwiUNxQrih1njgJDwpYP2iHl?usp=sharing) Понятие, архитектура и концепции ОС. Дистрибутивы ОС. Этапы загрузки ОС. 
+- [Lesson 3](https://drive.google.com/drive/folders/1gXFc9tLqAiMW-hLzGmKdXR9Dv4LctOoO?usp=sharing) Файловые системы. Понятие LVM. Понятие и виды RAID.
+- [Lesson 4](https://drive.google.com/drive/folders/1W129_Uq5hFYXxA6CgIaA0Y7PU6o_Iuky?usp=sharing) Системы управления программнымипакетами. Репозитории. Менеджеры пакетов. Работа с SSH. Работа с NTP. Vagrant. Chmod/chown.
+- [Lesson 5](https://drive.google.com/drive/folders/1qa2LwA5TG8otmUHT5_Mwj2gCZWvQKTjV?usp=sharing) Повторение chmod, suid, sgid и sticky биты. Администрирование ОС. Работа с systemd. Процессы в Linux. Мониторинг системы.
+- [Lesson 6](https://drive.google.com/drive/folders/18J7k-z-_RpE0ibDm9CmMgrV07SSlVo35?usp=sharing) Введение в виртуализацию. Преимущества виртуализации. Принципы виртуализации. Типы виртуализации. Гипервизоры. Контейнеризация.
+- [Lesson 7](https://drive.google.com/drive/folders/1rLwklhgFNDUoSMM4rmxQnH6t6ijW6O-n?usp=sharing) Docker. Зачем нужен Docker. Архитектура контейнеров. Отличие Docker от VM. Системы управления виртуализацией.
+- [Lesson 8](https://drive.google.com/drive/folders/1pd4OcELJmC36szHWj9ePEbODMUIeYSnj?usp=sharing) Сети.
+- [Lesson 9](https://drive.google.com/drive/folders/1Z0_WiK2dCEV74Rhnr4LfizLb_xq5DgHM?usp=sharing) Знакомство с системами контроля версий. Работа с проектами в Git. Работа c коммитами. Работа через GUI. Как Git работает. Внутренняя структура Git.
+- [Lesson 10](https://drive.google.com/drive/folders/1gIm6OFMg4LKpU1C51gSArokjuT3Uq8Az?usp=sharing) Адресация компьютеров в сети. Адресация в IP сетях.
+- [Lesson 11](https://drive.google.com/drive/folders/1Lz17HSWjOAl7jsFiAez9xnxGjuiqrJ4A?usp=sharing) Git config. Git commit structure. Branching. Merge. Rebase.
+- [Lesson 12](https://drive.google.com/drive/folders/1MM4LN4XAZFUJIsOEeAs3yAjFTzMC8kNr?usp=sharing) Docker.
+- [Lesson 13](https://drive.google.com/drive/folders/1jHSB6l9l_0gE0f6kAHYTznHm7sP5JIwY?usp=sharing) Jenkins.
+- [Lesson 14](https://drive.google.com/drive/folders/1ylYRVzuWjy4zHt79nX5ZYVtfbqoAunwC?usp=sharing) Практика: curl, генерация 4к ssh ключа, создание и удаление файла одной командой, поиск пустых файлов в директории, изменение цвета и размера шрифта по умолчанию в консоли текущего пользователя, переменная среды PATH, нумерация строчек системного лога, просмотр первых 10 событий любого журнала, поиск файлов при помощи регулярных выражений, запуск диспетчера задач top в фоновом режиме, посчитать вес папки, запуск заданий в кроне, поиск файлов по дате создания, volume в докер контейнере.
+- [Lesson 15](https://drive.google.com/drive/folders/1T7ec3_ehd-Ga-wv9S68gDsHkD2mWGAG8?usp=sharing) Сети в docker. Практика: создание контейнеров в Docker, в Jenkins добавить слейв другого контейнера и запустить любую джобу.
 - [Lesson 16](https://drive.google.com/drive/folders/1kFKob3b_cdtlyE-Q1H4tt4tk-m7HLU3Z?usp=sharing)
 - [Lesson 17](https://drive.google.com/drive/folders/1iSuuG8ekRVJxubbSYUUsVpbCu2a2auIM?usp=sharing)
 - [Lesson 18](https://drive.google.com/drive/folders/1OmND846i0FH9xeFlwukq_-8ZUCvc7cjv?usp=sharing)
